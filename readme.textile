@@ -8,7 +8,7 @@ The syntax is
 
 <pre>
 apr [app pool name] [remote server name (optional)]
-<pre>
+</pre>
 
 so to recycle the app pool foo on server bar you would do 
 
