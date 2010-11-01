@@ -1,0 +1,23 @@
+h1. App Pool Recycle
+
+Command line tool for recycling app pools on local and remote server's
+
+h1. Example
+
+The syntax is
+
+<pre>
+apr [app pool name] [remote server name (optional)]
+<pre>
+
+so to recycle the app pool foo on server bar you would do 
+
+<pre>
+apr foo bar
+</pre>
+
+to recycle the app pool foo on your local computer you would just do 
+
+<pre>
+apr foo
+</pre>
